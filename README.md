@@ -1,2 +1,3 @@
 # pydic
 finding words with double alphabets...
+Related article: https://mehrdad-zadehebrahim.medium.com/finding-words-in-a-text-file-witch-they-have-double-letters-via-python-scrabble-730501422fc2
